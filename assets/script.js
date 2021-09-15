@@ -13,7 +13,7 @@ button.addEventListener('click',function(){
         var tempValue = data['main']['temp'];
         var descValue = data['weather'][0]['description'];
 
-        name.innerHTML =nonmreValue
+        name.innerHTML =nameValue
         temp.innerHTML =tempValue
         desc.innerHTML =descValue
 
