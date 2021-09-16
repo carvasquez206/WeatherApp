@@ -12,45 +12,37 @@
     <header>
         <h1>5 Day Weather Forecast</h1>
     </header>
-    <!--<div style="background-image: url('Sea');"></div>-->
 
+    <!--City Input-->
     <div class="input">
         <input id="cityInput" type="text" class="inputValue" placeholder="Enter City">
         <input type="submit" class="submit" onclick="GetInfo()">
         <h2 id="cityName">---Seattle---</h2>
     </div>
 
+    <!--<Weather Icons>-->
+    <div id="weatherContainer">
         <div class = "icons">
             <p class="weather" id="day1"></p>
             <div class="image"><img src="dots.png" class="imgClass" id="img1"></div>
-            <p class="minValues" id="day1Min">Loading...</p>
-            <p class="maxValues" id="day1Max">Loading...</p>
         </div>
         <div class = "icons">
             <p class="weather" id="day2"></p>
             <div class="image"><img src="dots.png" class="imgClass" id="img2"></div>
-            <p class="minValues" id="day2Min">Loading...</p>
-            <p class="maxValues" id="day2Max">Loading...</p>
         </div>
         <div class = "icons">
             <p class="weather" id="day3"></p>
             <div class="image"><img src="dots.png" class="imgClass" id="img3"></div>
-            <p class="minValues" id="day3Min">Loading...</p>
-            <p class="maxValues" id="day3Max">Loading...</p>
         </div>
         <div class = "icons">
             <p class="weather" id="day4"></p>
             <div class="image"><img src="dots.png" class="imgClass" id="img4"></div>
-            <p class="minValues" id="day4Min">Loading...</p>
-            <p class="maxValues" id="day4Max">Loading...</p>
         </div>
         <div class = "icons">
             <p class="weather" id="day5"></p>
             <div class="image"><img src="dots.png" class="imgClass" id="img5"></div>
-            <p class="minValues" id="day5Min">Loading...</p>
-            <p class="maxValues" id="day5Max">Loading...</p>
         </div>   
-
+    </div>
     <script src="assets/script.js"></script>
 </body>
 </html>
