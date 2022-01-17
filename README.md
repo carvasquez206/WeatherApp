@@ -1,13 +1,13 @@
 # WeatherApp
 
 ## Description
-Using [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities.
+I created a Weather Dashboard using a third party API known as [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to display the current and upcoming weather for the current/next 5 days of the week. Included images to display aligned with the weather information given. 
 
 For more information on how to work with the OpenWeather API, refer to the [Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys).
 
-You will use `localStorage` to store any persistent data.
-
-Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+## Components  
+- [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities
+- `localStorage`: to store any persistent data
 
 ## User Story
 
@@ -17,7 +17,7 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
 
-## Acceptance Criteria
+## Criteria
 
 ```
 GIVEN a weather dashboard with form inputs
