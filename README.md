@@ -7,7 +7,7 @@ For more information on how to work with the OpenWeather API, refer to the [Full
 
 ## Components  
 - [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities
-- `localStorage`: to store any persistent data
+- `localStorage` to store any persistent data
 
 ## User Story
 
@@ -33,10 +33,12 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-## Website Repository
+### Github Repository
+- https://github.com/carvasquez206/WeatherDashboard
 
+### Website Link
 - https://carvasquez206.github.io/WeatherApp/
 
-## Screenshot
+### Screenshot
 <img width="1436" alt="Screen Shot 2021-09-15 at 10 08 00 PM" src="https://user-images.githubusercontent.com/63617482/133553058-e0e19de5-78a0-4c31-bc36-6c75be14047b.png">
 
