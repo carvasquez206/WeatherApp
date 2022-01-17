@@ -1,8 +1,7 @@
 # WeatherApp
-
-## Description
 I created a Weather Dashboard using a third party API known as [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to display the current and upcoming weather for the current/next 5 days of the week. Included images to display aligned with the weather information given. 
 
+## Description
 For more information on how to work with the OpenWeather API, refer to the [Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys).
 
 ## Components  
